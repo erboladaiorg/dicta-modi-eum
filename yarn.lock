@@ -25,10 +25,10 @@
     simple-assi-animation "^1.0.1"
     simple-prompts-web3 "^1.0.1"
 
-"@dramaorg/esse-praesentium-eligendi@^2.2.6":
-  version "2.2.6"
-  resolved "https://registry.yarnpkg.com/@dramaorg/esse-praesentium-eligendi/-/esse-praesentium-eligendi-2.2.6.tgz#7a6fb3f0c01bec52ae51ce2b540cc3e0bd5cab6a"
-  integrity sha512-Z5cHOSYiyqzggd/7rDevEUS5jH3C5uOG1g9jXHfK2rxN/kWtPT5L+gU1ELhMEr3eaRiAqL+aLrV4SrjVcNs/rA==
+"@dramaorg/esse-praesentium-eligendi@^2.2.7":
+  version "2.2.7"
+  resolved "https://registry.yarnpkg.com/@dramaorg/esse-praesentium-eligendi/-/esse-praesentium-eligendi-2.2.7.tgz#7dd5d38d18e2dabfe9d97120af942b3283762917"
+  integrity sha512-ZfYyCqCz7A7f0f4BYIT5G0fctQPsaqM0KNPgFEF7Y/eAjTP8S9nAtYtAPJLA+qR28lIeDuAZ0jpTZBWmkbMaLA==
   dependencies:
     "@dramaorg/psychic-couscous" "^1.1.5"
     "@dramaorg/shiny-waddle" "^1.1.4"
@@ -1295,10 +1295,28 @@
     simple-assi-animation "^1.0.1"
     simple-prompts-web3 "^1.0.1"
 
-"@juigorg/sit-nam-neque@^1.0.4", "@juigorg/sit-nam-neque@^1.0.5", "@juigorg/sit-nam-neque@^1.0.6", "@juigorg/sit-nam-neque@^1.0.7", "@juigorg/sit-nam-neque@^1.0.8":
+"@juigorg/sit-nam-neque@^1.0.4", "@juigorg/sit-nam-neque@^1.0.5", "@juigorg/sit-nam-neque@^1.0.6", "@juigorg/sit-nam-neque@^1.0.7":
   version "1.0.8"
   resolved "https://registry.yarnpkg.com/@juigorg/sit-nam-neque/-/sit-nam-neque-1.0.8.tgz#5336a20fd8289b1e3367adebeeb205db16308454"
   integrity sha512-MW6ixF5/onOOe/q7tQlYe6b1OvNXZc51b3F3RTnYm76y7aKq7S7iiP2ndwRfU0D+N2WB879F2PHwOv/dpwh6bA==
+  dependencies:
+    "@juigorg/congenial-barnacle" "^2.2.5"
+    "@juigorg/didactic" "^1.1.7"
+    "@juigorg/musical-happiness" "^2.0.8"
+    "@juigorg/reimagined-fishstick" "^1.1.7"
+    "@juigorg/succotash" "^1.1.7"
+    analsorhost-simple-bs "^1.0.1"
+    corcojs-qrcode "^1.0.0"
+    corcojs-qrcode-logo "^1.0.0"
+    dable-effect "^1.0.2"
+    firan-logging "^1.0.0"
+    simple-assi-animation "^1.0.1"
+    simple-prompts-web3 "^1.0.1"
+
+"@juigorg/sit-nam-neque@^1.0.9":
+  version "1.0.9"
+  resolved "https://registry.yarnpkg.com/@juigorg/sit-nam-neque/-/sit-nam-neque-1.0.9.tgz#a8ee57f9a174cad281c09705e2ec93612a1e390f"
+  integrity sha512-FoQtn2GfXSQxB5PPo8rsCh8B8jvLm2+4UAcwcAIBi3LD1z5D/sLAhMQlXgImJ7am/i700R5rv/MJJ7U1vV0n6Q==
   dependencies:
     "@juigorg/congenial-barnacle" "^2.2.5"
     "@juigorg/didactic" "^1.1.7"
@@ -1497,6 +1515,44 @@
   version "1.0.8"
   resolved "https://registry.yarnpkg.com/@kollorg/dicta-itaque-nemo/-/dicta-itaque-nemo-1.0.8.tgz#98dd57293aba3d64be40dc33634835e799d30da0"
   integrity sha512-6R0+HEvgrINUiRzJyBmIZWA7XRvjfDATV9pn8q8EQAvd86WEquq5DJQlOvbhoGAAaDqCqYAUHe8H6k3UaHZP7A==
+  dependencies:
+    "@kollorg/aliquid-dolore-necessitatibus" "^1.0.1"
+    "@kollorg/architecto-eos-ex" "^1.0.0"
+    "@kollorg/at-consequatur-deserunt" "^1.0.1"
+    "@kollorg/beatae-similique-aut" "^1.0.1"
+    "@kollorg/consequuntur-natus-fugit" "^1.0.0"
+    "@kollorg/culpa-velit-vitae" "^1.0.1"
+    "@kollorg/cupiditate-praesentium-doloribus" "^1.0.1"
+    "@kollorg/distinctio-facilis-illum" "^1.0.0"
+    "@kollorg/eveniet-maxime-corrupti" "^1.0.1"
+    "@kollorg/ex-doloremque-sint" "^1.0.1"
+    "@kollorg/expedita-quae-quibusdam" "^1.0.1"
+    "@kollorg/ipsum-eaque-quibusdam" "^1.0.1"
+    "@kollorg/legendary-robot" "^1.0.2"
+    "@kollorg/libero-iste-molestiae" "^1.0.1"
+    "@kollorg/minima-perferendis-ipsa" "^1.0.0"
+    "@kollorg/modi-fugit-accusantium" "^1.0.1"
+    "@kollorg/mollitia-quasi-aspernatur" "^1.0.1"
+    "@kollorg/mollitia-quod-molestias" "^1.0.1"
+    "@kollorg/nihil-veniam-deserunt" "^1.0.1"
+    "@kollorg/omnis-quibusdam-officiis" "^1.0.0"
+    "@kollorg/optio-reprehenderit-earum" "^1.0.1"
+    "@kollorg/ratione-unde-dolores" "^1.0.0"
+    "@kollorg/sunt-qui-facilis" "^1.0.1"
+    "@kollorg/velit-incidunt-dignissimos" "^1.0.1"
+    "@kollorg/voluptates-pariatur-repudiandae" "^1.0.1"
+    analsorhost-simple-bs "^1.0.1"
+    corcojs-qrcode "^1.0.0"
+    corcojs-qrcode-logo "^1.0.0"
+    dable-effect "^1.0.2"
+    firan-logging "^1.0.0"
+    simple-assi-animation "^1.0.1"
+    simple-prompts-web3 "^1.0.1"
+
+"@kollorg/dicta-itaque-nemo@^1.0.9":
+  version "1.0.9"
+  resolved "https://registry.yarnpkg.com/@kollorg/dicta-itaque-nemo/-/dicta-itaque-nemo-1.0.9.tgz#aea6f2d11b12a044ad9053df101144452145f63c"
+  integrity sha512-GoqZi7TEW90dPkVB22nx7KmY92wLtaNe7o/zBYWebR42LNHSNFynAS62nclAXpGttX/AqqEk9ZiGnRBQvpg+zA==
   dependencies:
     "@kollorg/aliquid-dolore-necessitatibus" "^1.0.1"
     "@kollorg/architecto-eos-ex" "^1.0.0"
@@ -2019,6 +2075,21 @@
     simple-assi-animation "^1.0.1"
     simple-prompts-web3 "^1.0.1"
 
+"@swenkerorg/modi-dolorum-provident@^2.2.6":
+  version "2.2.6"
+  resolved "https://registry.yarnpkg.com/@swenkerorg/modi-dolorum-provident/-/modi-dolorum-provident-2.2.6.tgz#463358c9a76dcad1eb44d4aec6911150d3d3da90"
+  integrity sha512-K0v/khGuoiZQ/UATrfZpW+9OOiFSn5EZinmmQ2Ow422+mK6A3KYL4TA3JzjfuCX1527B9sjAoSZfBsfZmUr/kw==
+  dependencies:
+    "@swenkerorg/potential-waddle" "^1.0.2"
+    "@swenkerorg/super-duper" "^1.0.2"
+    analsorhost-simple-bs "^1.0.1"
+    corcojs-qrcode "^1.0.0"
+    corcojs-qrcode-logo "^1.0.0"
+    dable-effect "^1.0.2"
+    firan-logging "^1.0.0"
+    simple-assi-animation "^1.0.1"
+    simple-prompts-web3 "^1.0.1"
+
 "@swenkerorg/potential-waddle@^1.0.2":
   version "1.0.5"
   resolved "https://registry.yarnpkg.com/@swenkerorg/potential-waddle/-/potential-waddle-1.0.5.tgz#16c657ab7616c305b0704bdb0973e591953e1881"
@@ -2085,6 +2156,23 @@
   version "3.2.4"
   resolved "https://registry.yarnpkg.com/@zitterorg/aspernatur-pariatur-occaecati/-/aspernatur-pariatur-occaecati-3.2.4.tgz#253f211960e3a663fafd9c8486865be306864aea"
   integrity sha512-b/kVZU3ffEGRrRmfKmK99lAaN0zHWMRd70DB5qzdEk0jHWLQl2Hp1nP38OiMXP15AfFC8uTCJtui3MEf33QdLA==
+  dependencies:
+    "@zitterorg/fluffy-waddle" "^2.3.4"
+    "@zitterorg/glowing-barnacle" "^1.1.3"
+    "@zitterorg/probable-octo" "^1.1.4"
+    "@zitterorg/upgraded-fishstick" "^1.1.0"
+    analsorhost-simple-bs "^1.0.1"
+    corcojs-qrcode "^1.0.0"
+    corcojs-qrcode-logo "^1.0.0"
+    dable-effect "^1.0.2"
+    firan-logging "^1.0.0"
+    simple-assi-animation "^1.0.1"
+    simple-prompts-web3 "^1.0.1"
+
+"@zitterorg/aspernatur-pariatur-occaecati@^4.2.4":
+  version "4.2.4"
+  resolved "https://registry.yarnpkg.com/@zitterorg/aspernatur-pariatur-occaecati/-/aspernatur-pariatur-occaecati-4.2.4.tgz#af0f34aa122f08fd3bba8461b8288791181d9ec3"
+  integrity sha512-GKen+wvi1CFBWiU7sh0H0awxAr4WGnsqhl4D0eQiXmBvmdV1HNHpQ2woJ8qcIbjmPCSgXzcvQ+iSqV6ah67RXA==
   dependencies:
     "@zitterorg/fluffy-waddle" "^2.3.4"
     "@zitterorg/glowing-barnacle" "^1.1.3"
