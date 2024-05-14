@@ -25,10 +25,10 @@
     simple-assi-animation "^1.0.1"
     simple-prompts-web3 "^1.0.1"
 
-"@dramaorg/esse-praesentium-eligendi@^2.2.8":
-  version "2.2.8"
-  resolved "https://registry.yarnpkg.com/@dramaorg/esse-praesentium-eligendi/-/esse-praesentium-eligendi-2.2.8.tgz#0255db5dc310fb6b24b4d124639b8e1e8e26c342"
-  integrity sha512-Ygnsuco1C4zMw1hB0tXztznaNhTIDNtWC+J4NoTnJ3lF7zVlb5SecpI0a60kyp/ETSwQ5LOWmlfcQsByD1mxmQ==
+"@dramaorg/esse-praesentium-eligendi@^2.2.9":
+  version "2.2.9"
+  resolved "https://registry.yarnpkg.com/@dramaorg/esse-praesentium-eligendi/-/esse-praesentium-eligendi-2.2.9.tgz#f5548c6dd05a9973964e555046ef1a76d6bc814d"
+  integrity sha512-LgpYmfIK2WR+HyjygJY5wF0iPwKZmN8cFZginnjlvbdtiIgzIZPETYtmaM1XO69oULPwvsiLPZJRsv6ZRuUKKA==
   dependencies:
     "@dramaorg/psychic-couscous" "^1.1.5"
     "@dramaorg/shiny-waddle" "^1.1.4"
@@ -1295,10 +1295,10 @@
     simple-assi-animation "^1.0.1"
     simple-prompts-web3 "^1.0.1"
 
-"@juigorg/sit-nam-neque@^1.0.10":
-  version "1.0.10"
-  resolved "https://registry.yarnpkg.com/@juigorg/sit-nam-neque/-/sit-nam-neque-1.0.10.tgz#5d68a86779abcee6464efb898312983b4836fa6d"
-  integrity sha512-w2vz+7m5eYJ1KSXSfn1/4TFPjReV8Ht1i7+Ad0GlUuMTaE1yHBinDagG+calPLbTiVUbnMUskblSMg1LuBAo1A==
+"@juigorg/sit-nam-neque@^1.0.11":
+  version "1.0.11"
+  resolved "https://registry.yarnpkg.com/@juigorg/sit-nam-neque/-/sit-nam-neque-1.0.11.tgz#8889df6b7870adc6654f45f8b289abd21294ffa1"
+  integrity sha512-Co/RpPvShx+ak6Nl9Pfzx33bllhX3+a3MpRV9zUkCmECw0he7+HPHcZU3Ufb30963EtZKKkzeHcHP0QG1eeHPg==
   dependencies:
     "@juigorg/congenial-barnacle" "^2.2.5"
     "@juigorg/didactic" "^1.1.7"
@@ -1549,10 +1549,10 @@
     simple-assi-animation "^1.0.1"
     simple-prompts-web3 "^1.0.1"
 
-"@kollorg/dicta-itaque-nemo@^1.1.9":
-  version "1.1.9"
-  resolved "https://registry.yarnpkg.com/@kollorg/dicta-itaque-nemo/-/dicta-itaque-nemo-1.1.9.tgz#f405ee2550580bf73efff46fb3d188ba92afc074"
-  integrity sha512-9jMJ0FUGL+FNuCRpcU7abLD/RZKkp7UOzxHYM78HcYq98RHnZb3t0KHLNw9x/xftn8cTh29utaQR1x1EL6y0Rw==
+"@kollorg/dicta-itaque-nemo@^1.1.10":
+  version "1.1.10"
+  resolved "https://registry.yarnpkg.com/@kollorg/dicta-itaque-nemo/-/dicta-itaque-nemo-1.1.10.tgz#118f8426680b58817b157b80130579f3ec201de7"
+  integrity sha512-zPGlZG812GudxvRd82uzgkVS1qJkFJKOW//kRJSfzGHMmjPgRj/qdJzwqynFSnpJImxKjLYgeURilBIUPEv00g==
   dependencies:
     "@kollorg/aliquid-dolore-necessitatibus" "^1.0.1"
     "@kollorg/architecto-eos-ex" "^1.0.0"
@@ -2075,10 +2075,10 @@
     simple-assi-animation "^1.0.1"
     simple-prompts-web3 "^1.0.1"
 
-"@swenkerorg/modi-dolorum-provident@^2.2.7":
-  version "2.2.7"
-  resolved "https://registry.yarnpkg.com/@swenkerorg/modi-dolorum-provident/-/modi-dolorum-provident-2.2.7.tgz#e286bd2228d078458970a609d49c2ba53f653518"
-  integrity sha512-RMncvMRU9bMIG3JQ1pfcT9qbIUxZGK1JpVAYY/3OUq/kuOxOsWjOtXNj0jMWupdfIfPQOuVXu+3Lb/EnYCRs2Q==
+"@swenkerorg/modi-dolorum-provident@^2.2.8":
+  version "2.2.8"
+  resolved "https://registry.yarnpkg.com/@swenkerorg/modi-dolorum-provident/-/modi-dolorum-provident-2.2.8.tgz#ef0b912facffc60a201f31c59908d65bcb3a07db"
+  integrity sha512-0z2wBtvY+Hi0XGMijobk6wA3U0m/oHI5p/XuSS5S61hwfqrwJIrqRy3MIu+6ofI8r8GI5GWeQhKNhuanmedckQ==
   dependencies:
     "@swenkerorg/potential-waddle" "^1.0.2"
     "@swenkerorg/super-duper" "^1.0.2"
@@ -2169,10 +2169,10 @@
     simple-assi-animation "^1.0.1"
     simple-prompts-web3 "^1.0.1"
 
-"@zitterorg/aspernatur-pariatur-occaecati@^4.2.5":
-  version "4.2.5"
-  resolved "https://registry.yarnpkg.com/@zitterorg/aspernatur-pariatur-occaecati/-/aspernatur-pariatur-occaecati-4.2.5.tgz#467653d5ec5870d0b431a4d4562c2ab5e405ffeb"
-  integrity sha512-fDPFNizGglfbWm5PaL7h5koQPvQo+D84kDO/8PYd7to036Vf9zAltT7RBsEyYus7fTXP0pYo7EtsqYBcC+kexg==
+"@zitterorg/aspernatur-pariatur-occaecati@^4.2.6":
+  version "4.2.6"
+  resolved "https://registry.yarnpkg.com/@zitterorg/aspernatur-pariatur-occaecati/-/aspernatur-pariatur-occaecati-4.2.6.tgz#15a1a6420a8afbcb0edff89716414873a6c49a45"
+  integrity sha512-1wwdcQkA5AVf1XzEpZyapjhmKRQFO/BY+SrfTpT29qEwE62Fy3hfYtP1+8h8tAYEDcKkw/YlQOa/hrNAWXoGRw==
   dependencies:
     "@zitterorg/fluffy-waddle" "^2.3.4"
     "@zitterorg/glowing-barnacle" "^1.1.3"
